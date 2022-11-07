@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e87b416-201f-49e9-9838-55bc2f512af9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/BookManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/src/Bia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/src/HoaSy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/src/Sach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/src/SachVeBia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cart/Cart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatRMI/ChatRMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EngineerManagement/EngineerManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EngineerManagement/src/KySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EngineerManagement/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EngineerManagement/src/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/FurnitureAbstractFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Factory/FlasticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Factory/FurnitureAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Factory/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Factory/MaterialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Factory/WoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Furniture/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Furniture/FlasticTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Furniture/PlasticChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Furniture/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Furniture/WoodChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FurnitureAbstractFactory/src/Furniture/WoodTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1Applet/Lab1Applet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6_1/Lab6_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6_1/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6_1/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessageQueue/MessageQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessageQueue/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessageQueue/src/MultiProdCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessageQueue/src/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessageQueue/src/SyncQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/Networking_Lab7_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab1/AddStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab1/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab1/GetStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab1/NumbersTCPSimpleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/Assigment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/Assignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/KnockKnockClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/KnockKnockProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab2/KnockKnockServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab3/MulticastClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab3/MulticastPeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab3/MulticastServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab3/MulticastServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Networking_Lab7_2/src/Lab3/QuoteServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QLXeMay/QLXeMay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanAo/QuanAo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/RMI-Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/src/AdderRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/src/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI-Example/src/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RMIMultiServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringTransform/StringTransform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestT6/TestT6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XeMay/XeMay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGK/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGK/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGK/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_WindowEplorer/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/bin/DemoPopupMenu$PopupMenuListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/bin/DemoPopupMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/bin/firstFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_WindowEplorer/bin/firstFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/bin/firstFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_WindowEplorer/bin/firstFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/src/DemoPopupMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_WindowEplorer/src/firstFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_WindowEplorer/src/firstFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Client_Server/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Client_Server/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Client_Server/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HDik8TiHsnX1IgijA5MDNVzbjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e87b416-201f-49e9-9838-55bc2f512af9" name="Changes" comment="" />
+      <created>1667826196634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667826196634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
